@@ -2,7 +2,7 @@ Olá, eu sou a Ethel!
 
 Meus projetos se voltam pra entender os que os dados nos dizem sobre:  
 - a maneira como vemos o mundo; 
-- e a maneira como aprendemos!
+- a maneira como aprendemos!
 
 <!---
 ethel-data/ethel-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
