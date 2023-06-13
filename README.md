@@ -1,5 +1,4 @@
 Olá, eu sou a Ethel!
-Professora de Filosofia e estudante de Data Science.
 
 Meus projetos se voltam pra entender os que os dados nos dizem sobre:  
 - a maneira como vemos o mundo; 
